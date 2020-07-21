@@ -1,4 +1,4 @@
-Image dimensions should be 240x240. Larger images will be sequenced along the first 240x240 pixels. Choose your MIDI output device using the `midiout` object. This is my first patch, and it's nowhere near where I want it, yet. Gradients make for a more "musical" experience in general.
+Image dimensions should be 240x240. Larger images will be sequenced along the first 240x240 pixels. Choose your MIDI output device using the `midiout` object. This is my first patch, and it's in early stages. Gradients make for a more "musical" experience in general.
 
 ![image of presentation view of patch](assets/pres.png)
 
