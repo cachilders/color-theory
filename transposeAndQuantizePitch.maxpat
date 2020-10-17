@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 556.0, 408.0, 640.0, 480.0 ],
+		"rect" : [ 1006.0, 423.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -160,7 +160,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 223.0, 273.166667819023132, 18.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 5.330356, 14.0, 18.0, 18.0 ],
+					"presentation_rect" : [ 5.330356, 15.0, 18.0, 18.0 ],
 					"uncheckedcolor" : [ 0.443137254901961, 0.447058823529412, 0.498039215686275, 1.0 ]
 				}
 
@@ -180,7 +180,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 250.499999046325684, 271.166667819023132, 48.0, 19.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 85.097018331289291, 12.0, 52.0, 19.0 ]
+					"presentation_rect" : [ 85.097018331289291, 13.0, 52.0, 19.0 ]
 				}
 
 			}
@@ -198,14 +198,14 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 250.499999000000003, 53.0, 41.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 34.5, -0.5, 41.0, 47.0 ],
+					"presentation_rect" : [ 34.5, -1.5, 41.0, 47.0 ],
 					"prototypename" : "transp",
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_linknames" : 1,
-							"parameter_longname" : "blue transpose[1]",
+							"parameter_longname" : "blue transpose[3]",
 							"parameter_mmax" : 6.0,
 							"parameter_mmin" : -6.0,
 							"parameter_shortname" : "OCTAVE",
@@ -241,7 +241,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 250.499999046325684, 147.0, 51.0, 22.0 ],
-					"text" : "-36"
+					"text" : "72"
 				}
 
 			}
